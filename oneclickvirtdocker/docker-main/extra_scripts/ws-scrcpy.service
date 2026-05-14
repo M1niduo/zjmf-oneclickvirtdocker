@@ -1,0 +1,14 @@
+[Unit]
+Description=ws-scrcpy
+After=network.target
+
+[Service]
+WorkingDirectory=/root/ws-scrcpy
+ExecStart=bash nohup-ws-scrcpy.sh
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=ws-scrcpy
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

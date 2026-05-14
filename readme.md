@@ -5,7 +5,7 @@
 基于 [oneclickvirt/docker](https://github.com/oneclickvirt/docker)
 
 ## 通用接口配置
-![通用接口配置]()
+![通用接口配置](https://raw.githubusercontent.com/M1niduo/zjmf-oneclickvirtdocker/main/screenshot_2026-05-14_21-19-45.png)
 
 ## 产品界面
-![产品界面]()
+![产品界面](https://raw.githubusercontent.com/M1niduo/zjmf-oneclickvirtdocker/main/screenshot_2026-05-14_21-20-08.png)
